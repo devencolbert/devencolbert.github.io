@@ -1,0 +1,39 @@
+#superman {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 0px;
+    bottom: 0px;
+}
+
+#flash {
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 0px;
+    bottom: 150px;
+}
+
+#red {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%
+}
+
+#race, #city {
+    width: 1900px;
+    height: 300px;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#winner {
+    display: block;
+    text-align: center;
+}
+
+body {
+    background: url(city_background.jpg);
+}
